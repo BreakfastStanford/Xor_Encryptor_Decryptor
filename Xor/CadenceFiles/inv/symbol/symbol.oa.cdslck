@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      eceguest
+HostName                       host-10-0-2-15.nss.udel.edu
+ProcessIdentifier              3348
+ProcessCreationTime_UTC        1695059380
+ProcessCreationTime_Readable   Mon Sep 18 13:49:40 2023 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/eceguest/digital_course/Stanford/inv/symbol/symbol.oa.cdslck
+TimeEditLocked                 Mon Sep 18 14:28:43 2023 EDT
